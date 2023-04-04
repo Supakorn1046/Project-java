@@ -7,9 +7,9 @@ https://github.com/Supakorn1046
 
 3.เข้าไปที่คำว่า code คัดลอก URL ที่ขึ้นมา 
 
-4.เข้าไปที่ terminal พิมพ์ cd ตามด้วยเลือกที่เราอยากให้ไฟล์ไปอยู่ไหน ผมเลือกเป็น desktop จะได้ cd desktop จากนั้นพิมพ์ git clone ตามด้วย URL ที่คัดลอกไว้ จะได้ git clone https://github.com/Supakorn1046 
+4.เข้าไปที่ terminal พิมพ์ cd ตามด้วยเลือกที่เราอยากให้ไฟล์ไปอยู่ไหน ผมเลือกเป็น desktop จะได้ cd desktop จากนั้นพิมพ์ git clone ตามด้วย URL ที่คัดลอกไว้ จะได้ (git clone https://github.com/Supakorn1046) 
 
-5.พิมพ์ cd ตามด้วยชื่อโฟล์เดอร์ Project-java จะได้ cd Project-java 
+5.พิมพ์ cd ตามด้วยชื่อโฟล์เดอร์ (Project-java จะได้ cd Project-java )
 
 6.เข้าไปที่โปรแกรมที่ต้องการเปิด จากนั้นเลือกที่อยู่ไฟล์ที่ใส่ไว้ตอนแรก จากนั้นกด Ok 
 
